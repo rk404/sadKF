@@ -152,3 +152,4 @@ LaTex     |           | LaTex       |             |
 - $\sin$, 
 - $\sinh$, 
 - $\sup$ 
+
