@@ -28,8 +28,6 @@ project:
     - file: 02-review2.ipynb
     - file: 03-git.ipynb
     - file: 04-markdown.ipynb
-      children:
-        - file: latex.md
     - file: 05-dataviz-pyplot.ipynb
     - file: 06-dataviz-seaborn.ipynb
     - file: 07-dataviz-zasady.ipynb
