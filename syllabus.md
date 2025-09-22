@@ -31,7 +31,7 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 ### Prowadzący - instruktor
 
--   [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG / SAD część 1. w semestrze letnim.
+-   [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG.
 
 #### Konsultacje
 
@@ -57,9 +57,13 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 ## Ocena końcowa
 
-### Projekt końcowy
+### Projekt końcowy (SAD 1.)
 
-Twoja ocena końcowa bazuje na wykonaniu w małej grupie projektu końcowego: [szczegóły nt. projektu](final.md).
+Twoja ocena końcowa z przedmiotu SAD bazuje na wykonaniu w małej grupie projektu końcowego: [szczegóły nt. projektu](final.md).
+
+### Test końcowy (SAD 2.)
+
+Ocena końcowa z przedmiotu "Wizualizacja i analiza danych w Pythonie" (SAD 2.) bazuje wyłącznie na podstawie testu z zakresu wnioskowania statystycznego. Aby zaliczyć przedmiot należy uzyskać minimum 60% punktów z testu.
 
 ### Skala ocen
 

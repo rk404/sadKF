@@ -24,13 +24,15 @@ Ten kurs jest jednym z [**dwóch podstawowych kursów** z zakresu statystycznej 
 
 ## Ocena końcowa
 
-Ocena końcowa wystawiona będzie na podstawie Twojego [projektu końcowego](final.md). 
+Ocena końcowa z przedmiotu w SAD 1. w semestrze letnim 2025 wystawiona będzie na podstawie Twojego [projektu końcowego](final.md). 
 
-Nie ma egzaminu końcowego; zobacz [syllabus](syllabus.md) by zobaczyć wszystkie szczegóły nt. kursu.
+Ocena końcowa z przedmiotu SAD 2. w semestrze zimowym 2025 wystawiona będzie wyłącznie na podstawie końcowego testu z zakresu wnioskowania statystycznego. 
+
+Zobacz [syllabus](syllabus.md) by zobaczyć wszystkie szczegóły nt. kursu.
 
 ## Obecna edycja
 
-Obecna edycja SAD na studiach podyplomowych to **Lato 2025**. 
+Obecna edycja SAD na studiach podyplomowych to **Lato-Jesień 2025**. 
 
 Prowadzącym jest [Karol Flisikowski](https://www.flisikowski.eu/). 
 
