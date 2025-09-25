@@ -40,16 +40,16 @@ E-mail: [karflisi@pg.edu.pl](mailto:karflisi@pg.edu.pl) | [karol@ctbu.edu.cn](ma
 
 ## Konsultacje 
 
-Konsultacje online - w środy 14-15 - umawiane poprzez Calendly tutaj: [link](https://calendly.com/flisik/konsultacje-office-hours)
+Konsultacje online - w semestrze zimowym 2025/2026 - we czwartki 13-14 - umawiane poprzez Calendly tutaj: [link](https://calendly.com/flisik/konsultacje-office-hours)
 
 ## Tematy
 
 Omawiane tematy będą obejmować:
 
-- Porządkowanie i czyszczenie danych (część 1/2).
-- Wizualizacja danych (część 1/2).
-- Statystyka opisowa - opis próby. (cz. 1/2)
-- Statystyka matematyczna - wnioskowanie z próby. (cz. 2/2)
+- Porządkowanie i czyszczenie danych [SAD 1.]
+- Wizualizacja danych [SAD 1.]
+- Statystyka opisowa - opis próby [SAD 1.]
+- Statystyka matematyczna - wnioskowanie z próby [SAD 2.]
 
 Więcej informacji znajdziesz w [syllabusie](syllabus.md).
 

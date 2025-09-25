@@ -12,7 +12,6 @@ Będzie obejmować stawianie i analizowanie pytań takich jak:
 -   Jakiej metody wizualizacji i analizy danych uzyć dla danej skali pomiarowej wybranej zmiennej? (cz. 1/2)
 -   Jak dobrać metodę wnioskowania z próby do zadanego problemu badawczego? (cz. 2/2)
 -   Jaki **model** jest najbardziej odpowiedni dla tych danych? (cz. 2/2)
--   W jaki sposób **projektować i wdrażać** te modele - od [regresji liniowej](https://en.wikipedia.org/wiki/Linear_regression) do [maszyn wektorów nośnych](https://en.wikipedia.org/wiki/Support_vector_machine)? (cz. 2/2)
 
 Tematy te zostaną omówione w kontekście serii krótkich **ćwiczeń praktycznych** z rzeczywistymi zestawami danych w **środowisku programistycznym Python**. Będziemy uzywać Visual Studio Code, formatu notatnika Jupyter Notebook, ew. pliku Markdown (MD) połączonego na stałe z Twoim repozytorium na GitHubie dzięki wtyczce GitLens.
 
@@ -24,8 +23,6 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 -   **Zdiagnozować** i **naprawić** problemy techniczne danych, począwszy od braków danych, obserwacji odstających, brudnych danych (niekonsystencji). (cz. 1/2)
 -   **Projektować** i **wdrażać** jasne, zwięzłe i dokładne przekrojowe wizualizacje danych. (cz. 1/2)
 -   **Proponować** i **testować** hipotezy dotyczące danych przy użyciu modeli statystycznych na próbie danych. (cz. 2/2)
--   **Konstruować** modele statystyczne w Pythonie i **interpretować** wyniki.  (cz. 2/2)
--   Rozważać zalety i wady różnych metryk oceny modeli. (cz. 2/2)
 
 ## Logistyka kursu
 
@@ -39,21 +36,12 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 |--------------------|------------------------|-----------------------------|
 | Karol Flisikowski | Środy 14-15 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
 
-### Kiedy/Gdzie?:
+### Kiedy/Gdzie? SAD 2.:
 
-#### Ścieżka techniczna 
-
--   Sesja 1. i 2. 26/04/2025 9:00 - 16:00 z przerwą 12:15-12:45 /sala 209
--   Sesja 3. 16/05/2025 16:30 - 20:00 /sala 203
--   Sesja 4. 17/05/2025 12:50 - 16:30 /sala 203
--   Termin nadesłania projektu: najpóźniej do 6 lipca 23:59 (na Waszą prośbę termin przedłuzony o 1 tydzień). Mailowo podeślijcie mi tylko link do REPO projektu.
-
-#### Ścieżka praktyczna
-
--   Sesja 1. 30/05/2025 16:30 - 19:45 Online: [link do spotkania](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjdjNGJhZjctNDM0MS00ZjZhLWE5OTgtOTkyYjdjOTc4OWQw%40thread.v2/0?context=%7b%22Tid%22%3a%2286760356-0022-486f-b793-a2d470bba5a5%22%2c%22Oid%22%3a%22cee5544e-5052-4880-984d-b175250e4a23%22%7d)
--   Sesja 2. i 3. 31/05/2025 9:00 - 16:00 Online: [link do spotkania](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2FiOGNkZWEtZTMwYy00MzE2LTkwZTgtMjg4YmIyNzlhNTcw%40thread.v2/0?context=%7b%22Tid%22%3a%2286760356-0022-486f-b793-a2d470bba5a5%22%2c%22Oid%22%3a%22cee5544e-5052-4880-984d-b175250e4a23%22%7d)
--   Sesja 4. 21/06/2025 12:50 - 16:00 Online: [link do spotkania](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzU1YTE5YzMtMDRmNy00MjAwLWFlM2YtMGQwMjgyZTNmZmU1%40thread.v2/0?context=%7b%22Tid%22%3a%2286760356-0022-486f-b793-a2d470bba5a5%22%2c%22Oid%22%3a%22cee5544e-5052-4880-984d-b175250e4a23%22%7d)
--   Termin nadesłania projektu: najpóźniej do 6 lipca 23:59 (na Waszą prośbę termin przedłuzony o 1 tydzień). Mailowo podeślijcie mi tylko link do REPO projektu.
+- Sesja 1. 26/09/2025 16:30-19:45 sala 203
+- Sesja 2. 27/09/2025 13:00-16:15 sala 203
+- Sesja 3. 14/11/2025 16:30-19:45 sala 203
+- Sesja 4. 28/11/2025 16:30-19:45 sala 203 z testem o godzinie 19:00
 
 ## Ocena końcowa
 
