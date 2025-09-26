@@ -34,6 +34,7 @@ project:
     - file: 08-data-wrangling.ipynb
     - file: 09-statystyka-opisowa.ipynb
     - file: 10-sampling.ipynb
+    - file: 11-estymacja.ipynb
   exports:
     - format: pdf
       template: lapreprint-typst
