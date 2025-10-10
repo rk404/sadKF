@@ -6,7 +6,7 @@ downloads:
 
 # Witaj na kursie SAD 2025!
 
-SAD 2025 | Karol Flisikowski | Lato 2025 | PG
+SAD 2025 | Karol Flisikowski | Zima 2025 | PG
 
 ## O kursie
 
