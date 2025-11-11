@@ -35,6 +35,7 @@ project:
     - file: 09-statystyka-opisowa.ipynb
     - file: 10-sampling.ipynb
     - file: 11-estymacja.ipynb
+    - file: 12-testowanie.ipynb
   exports:
     - format: pdf
       template: lapreprint-typst
