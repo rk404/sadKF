@@ -36,6 +36,7 @@ project:
     - file: 10-sampling.ipynb
     - file: 11-estymacja.ipynb
     - file: 12-testowanie.ipynb
+    - file: 13-testy_roznic.ipynb
   exports:
     - format: pdf
       template: lapreprint-typst
